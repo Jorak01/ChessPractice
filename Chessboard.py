@@ -2,7 +2,7 @@ import pygame
 import chess
 import chess.engine
 
-# Initialize Pygame
+# Initialize Pygame prep
 pygame.init()
 
 # Set up display
